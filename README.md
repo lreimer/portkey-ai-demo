@@ -1,4 +1,4 @@
-# PortKey Demo using Python
+# PortKey AI gateway Demo using Python
 
 Simple HelloWorld demo app for PortKey using Python.
 
