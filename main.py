@@ -5,7 +5,7 @@ from portkey_ai import Portkey, PORTKEY_GATEWAY_URL
 def main():
     # Construct a client with a virtual key
     portkey = Portkey(
-        api_key=os.getenv("PORTKEY_AI_KEY"),
+        api_key=os.getenv("PORTKEY_API_KEY"),
         virtual_key="google-virtual-005f0a",
         base_url=PORTKEY_GATEWAY_URL
     )
